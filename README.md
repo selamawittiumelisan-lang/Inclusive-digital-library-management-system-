@@ -6,9 +6,9 @@ The Inclusive Digital Library Management System is a software application design
 
 ## Group Members
 
-1.Lidiya wendmu 0391/17
-2.Mihret melaku 1663/17
-3.Hayat Ahmed 0328/17
-4.Rahel manaye 4921/17
-5.Selwa endris 0588/17
-6.Selamawit tiumelsan 0584/17
+1. Lidiya wendmu-0391/17
+2. Mihret melaku-1663/17
+3. Hayat Ahmed-0328/17
+4. Rahel manaye-4921/17
+5. Selwa endris-0588/17
+6. Selamawit tiumelsan-0584/17
